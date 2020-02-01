@@ -39,7 +39,6 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Button1"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
@@ -48,7 +47,6 @@ Partial Class Form1
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(23, 75)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "2"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
@@ -57,7 +55,6 @@ Partial Class Form1
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(23, 75)
         Me.Button3.TabIndex = 2
-        Me.Button3.Text = "3"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Button4
@@ -66,7 +63,6 @@ Partial Class Form1
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(23, 75)
         Me.Button4.TabIndex = 3
-        Me.Button4.Text = "4"
         Me.Button4.UseVisualStyleBackColor = True
         '
         'Button5
@@ -75,7 +71,6 @@ Partial Class Form1
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(23, 75)
         Me.Button5.TabIndex = 4
-        Me.Button5.Text = "5"
         Me.Button5.UseVisualStyleBackColor = True
         '
         'Button6
@@ -84,7 +79,6 @@ Partial Class Form1
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(75, 23)
         Me.Button6.TabIndex = 5
-        Me.Button6.Text = "Button6"
         Me.Button6.UseVisualStyleBackColor = True
         '
         'Button7
@@ -93,7 +87,6 @@ Partial Class Form1
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(75, 23)
         Me.Button7.TabIndex = 6
-        Me.Button7.Text = "Button7"
         Me.Button7.UseVisualStyleBackColor = True
         '
         'Timer1

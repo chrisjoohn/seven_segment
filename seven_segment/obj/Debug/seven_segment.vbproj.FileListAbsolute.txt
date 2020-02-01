@@ -1,0 +1,11 @@
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\bin\Debug\seven_segment.exe.config
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\bin\Debug\seven_segment.exe
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\bin\Debug\seven_segment.pdb
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\bin\Debug\seven_segment.xml
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\obj\Debug\seven_segment.vbprojResolveAssemblyReference.cache
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\obj\Debug\seven_segment.Form1.resources
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\obj\Debug\seven_segment.Resources.resources
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\obj\Debug\seven_segment.vbproj.GenerateResource.Cache
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\obj\Debug\seven_segment.exe
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\obj\Debug\seven_segment.xml
+c:\users\cjmulingbayan\documents\visual studio 2015\Projects\seven_segment\seven_segment\obj\Debug\seven_segment.pdb
